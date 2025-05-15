@@ -1,1 +1,1 @@
-# Libft-v2 ─╯
+# Libft-v2
